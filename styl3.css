@@ -1,0 +1,28 @@
+body {
+    font-family:Helvetica;
+}
+#baner-lewy, #blok-lewy{
+    float:left;
+    background-color: rgb(130,69,85);
+    color: white;
+    width:30%;
+    height:200px;
+    text-align:center;
+}
+#baner-prawy, #blok-prawy {
+    float:right;
+    background-color: rgb(130,69,85);
+    color:white;
+    width:70%;
+    height:200px;
+    text-align: center;
+}
+footer, main {
+    background-color:rgb(240,234,226);
+    padding:120px;
+}
+table,tr, td {
+    border:1px solid rgb(130,69,85);
+    color: rgb(130,69,85);
+    padding: 10px;
+}
